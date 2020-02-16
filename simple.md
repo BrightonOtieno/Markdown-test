@@ -26,6 +26,30 @@ Our text is __pretty strong__ I guess
 
 This text has been ~~Strikedthrough~~ you will never believe
 
+<!--HORIZONTAL LINE -->
+
+---
+
+___
+
+<!--Escaping the asterics-->
+
+to multiply just do 8 \* 4 
+
+<!--BLOCKQUOTE-->
+>This is just a simple blockquote 
+
+
+<!--LINKS-->
+
+[google](http://www.google.com)
+
+<!--With title-->
+
+[google](http://www.google.com "google's link")
+
+
+
 
 
 
