@@ -48,6 +48,74 @@ to multiply just do 8 \* 4
 
 [google](http://www.google.com "google's link")
 
+<!--Unordered lists-->
+
+* Bread
+* Milk
+* Tea
+* Meat 
+    * Pork
+    * Beef
+    * Bacon
+
+<!--Ordered lists-->
+
+1. Bread 
+2. Milk
+3. Tea
+
+<!--Inline Code Blocks-->
+
+`<p>Just a simple paragraph</p>`
+---
+
+<!--Images-->
+
+![Markdown Logo](img/codes.jfif)
+
+<!--Github-->
+
+```
+npm install bootstrap 
+
+git init 
+
+git commit -m 'your commit message  goes in here '
+
+pip install pandas as pd 
+
+```
+
+
+```javascript
+function add (num1, num2){
+    return num1 + num2;
+}
+
+```
+
+<!--Tables -->
+
+| Name    | Email  |
+|---------|--------|
+| John Doe| john@gmail.com|
+| jane Doe| jane@gmail.com|
+
+
+
+<!--Task Lists -->
+
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+
+
+
+
+
+
+
+
 
 
 
